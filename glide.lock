@@ -1,0 +1,28 @@
+hash: b87b302413bb6c761c22655e80db42403d7f97f862e4f797be93c496c0876478
+updated: 2018-05-25T23:16:29.411102+03:00
+imports:
+- name: github.com/andybalholm/cascadia
+  version: 901648c87902174f774fac311d7f176f8647bdaa
+- name: github.com/cornelk/hashmap
+  version: 8e07f07c3a24ba3a976f405c9b82c0bb83f63cbb
+- name: github.com/dchest/siphash
+  version: 4ebf1de738443ea7f45f02dc394c4df1942a126d
+- name: github.com/gorilla/context
+  version: 08b5f424b9271eedf6f9f0ce86cb9396ed337a42
+- name: github.com/gorilla/mux
+  version: 53c1911da2b537f792e7cafcb446b05ffe33b996
+- name: github.com/PuerkitoBio/goquery
+  version: ea1bc64a63088ac2bbf1a2edcae38413794a7710
+- name: github.com/rs/xid
+  version: 088c5cf1423a6c8bd65110ddb12818e4ee993c84
+- name: golang.org/x/net
+  version: b68f30494add4df6bd8ef5e82803f308e7f7c59c
+  subpackages:
+  - html
+  - html/atom
+- name: golang.org/x/sys
+  version: 378d26f46672a356c46195c28f61bdb4c0a781dd
+  subpackages:
+  - unix
+  - windows
+testImports: []

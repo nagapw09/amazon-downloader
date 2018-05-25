@@ -1,0 +1,4 @@
+package: amazon-downloader
+import:
+- package: github.com/cornelk/hashmap
+- package: github.com/gorilla/mux
